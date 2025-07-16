@@ -4,3 +4,5 @@ scikit-learn
 wikipedia
 spacy 
 textblob
+requests
+beautifulsoup4
